@@ -28,17 +28,53 @@ const replace = [
     "replaceWith": "Marlène Schiaprout"
   },
   {
-    "name": "Élizabeth Borne|Elizabeth Borne",
+    "name": "Élisabeth Borne|Elisabeth Borne",
     "replaceWith": "Élizabeth Prout"
   },
   {
     "name": "Éric Dupond-Moretti",
     "replaceWith": "Éric Duprout-Moretti"
   },
+  {
+    "name": "Gabriel Attal",
+    "replaceWith": "Gabriel Prouttal",
+  }
     {
+    "name": "Jean-Yves Le Drian|Jean Yves Le Drian|Jean-Yves le Drian",
+    "replaceWith": "Jean-Prout Le Drian"
+  },
+  {
+    "name": "Agnès Pannier-Runacher",
+    "replaceWith": "Agnès Proutier-Runacher"
+  },
+  {
+    "name": "Cédric O|Cedric O",
+    "replaceWith": "Cédric prOut"
+  },
+  {
+    "name": "Florence Parly",
+    "replaceWith": "Florence Proutly"
+  },
+  {
+    "name": "Roselyne Bachelot",
+    "replaceWith": "Proutelyne Bachelot"
+  },
+  {
+    "name": "Olivier Véran",
+    "replaceWith": "Proutivier Véran"
+  },
+  {
+    "name": "Frédérique Vidal|Frederique Vidal",
+    "replaceWith": "Frédérique Proutal"
+  },
+  {
+    "name": "Amélie de Montchalin|Amélie De Montchalin",
+    "replaceWith": "Amélie de Proutalin"
+  },
+  {
     "name": "ministre|Ministre",
     "replaceWith": "miniprout"
-  },
+  }
 ];
 
 // Create arrya of regexps with all above elements
