@@ -13,14 +13,22 @@ const replace = [
   }
 ];
 
+// Create arrya of regexps with all above elements
+const rExps = []
 replace.forEach((element) => {
-  var textNode;
-  let walk = document.createTreeWalker(document.body, NodeFilter.SHOW_TEXT, null, false);
-
-  const rExp = new RegExp(element['name'], 'gi');
-  document.title = document.title.replace(rExp, element['replaceWith']);
-
-  while (textNode = walk.nextNode()) {
-    textNode.nodeValue = textNode.nodeValue.replace(rExp, element['replaceWith']);
-  }
+  rExps.push([new RegExp(element["name"]), element["replaceWith"]])
 })
+
+var textNode;
+let walk = document.createTreeWalker(document.body, NodeFilter.SHOW_TEXT, null, false);
+
+// Replace in title
+rExps.forEach(function (rExp) {
+  document.title = document.title.replace(rExp[0], rExp[1]);
+});
+
+while (textNode = walk.nextNode()) {
+  rExps.forEach(function (rExp) {
+    textNode.nodeValue = textNode.nodeValue.replace(rExp[0], rExp[1]);
+  });
+}
