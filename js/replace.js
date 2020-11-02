@@ -10,7 +10,31 @@ const replace = [
   {
     "name": "Jean Castex",
     "replaceWith": "Jean Proutex"
-  }
+  },
+  {
+    "name": "Macron|Emmanuel Macron",
+    "replaceWith": "Emmanuel Maprout"
+  },
+  {
+    "name": "Barbara Pompili",
+    "replaceWith": "Barbara Proutili"
+  },
+  {
+    "name": "Jean-Michel Blanquer" ,
+    "replaceWith": "Jean-Michel Blanc-Prout"
+  },
+  {
+    "name": "Marlène Schiappa",
+    "replaceWith": "Marlène Schiaprout"
+  },
+  {
+    "name": "Élizabeth Borne|Elizabeth Borne",
+    "replaceWith": "Élizabeth Prout"
+  },
+  {
+    "name": "Éric Dupond-Moretti",
+    "replaceWith": "Éric Duprout-Moretti"
+  },
 ];
 
 // Create arrya of regexps with all above elements
