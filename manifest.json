@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+  "name": "Proutify",
+  "version": "1.0",
+  "content_scripts": [
+    {
+      "matches": [
+        "https://*/*"
+      ],
+      "js": [
+        "js/replace.js"
+      ]
+    }
+  ]
+}
