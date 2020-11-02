@@ -4,7 +4,7 @@ const replace = [
     "replaceWith": "Darmaprout"
   },
   {
-    "name": "Bruno Le Maire",
+    "name": "Bruno Le Maire|Bruno Lemaire",
     "replaceWith": "Bruno Le Prout"
   },
   {
