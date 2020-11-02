@@ -20,7 +20,7 @@ const replace = [
     "replaceWith": "Barbara Proutili"
   },
   {
-    "name": "Jean-Michel Blanquer" ,
+    "name": "Jean-Michel Blanquer",
     "replaceWith": "Jean-Michel Blanc-Prout"
   },
   {
@@ -38,8 +38,8 @@ const replace = [
   {
     "name": "Gabriel Attal",
     "replaceWith": "Gabriel Prouttal",
-  }
-    {
+  },
+  {
     "name": "Jean-Yves Le Drian|Jean Yves Le Drian|Jean-Yves le Drian",
     "replaceWith": "Jean-Prout Le Drian"
   },
