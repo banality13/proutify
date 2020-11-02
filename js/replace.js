@@ -35,6 +35,10 @@ const replace = [
     "name": "Éric Dupond-Moretti",
     "replaceWith": "Éric Duprout-Moretti"
   },
+    {
+    "name": "ministre|Ministre",
+    "replaceWith": "miniprout"
+  },
 ];
 
 // Create arrya of regexps with all above elements
