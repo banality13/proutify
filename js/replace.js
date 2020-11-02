@@ -1,9 +1,16 @@
 var textNode;
 const walk = document.createTreeWalker(document.body, NodeFilter.SHOW_TEXT, null, false);
-const rExp = new RegExp('Darmanin', 'gi');
+const rExps = [
+  [new RegExp('Darmanin', 'gi'), 'Darmaprout'],
+  [new RegExp('Le Maire', 'g'), 'Le Prout']
+];
 
 while (textNode = walk.nextNode()) {
-  textNode.nodeValue = textNode.nodeValue.replace(rExp, 'Darmaprout');
+   rExps.forEach(function (rExp) {
+     textNode.nodeValue = textNode.nodeValue.replace(rExp[0], rExp[1]);
+   });
 }
 
-document.title = document.title.replace(rExp, 'Darmaprout');
+rExps.forEach(function (rExp) {
+  document.title = document.title.replace(rExp[0], rExp[1]);
+});
