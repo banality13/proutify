@@ -73,7 +73,7 @@ const replace = [
   },
   {
     "name": "ministre|Ministre",
-    "replaceWith": "miniprout"
+    "replaceWith": "Miniprout"
   }
 ];
 
