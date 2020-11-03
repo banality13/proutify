@@ -2,6 +2,9 @@
   "manifest_version": 2,
   "name": "Proutify",
   "version": "1.0",
+  "icons": {
+      "64": "static/icon.jpeg"
+  },
   "content_scripts": [
     {
       "matches": [
@@ -11,5 +14,10 @@
         "js/replace.js"
       ]
     }
-  ]
+  ],"browser_action": {
+      "default_icon": {
+        "64": "static/icon.jpeg"
+      },
+      "default_popup": "index.html"
+  }
 }
