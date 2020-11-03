@@ -71,6 +71,10 @@ const replace = [
     "name": "Amélie de Montchalin|Amélie De Montchalin",
     "replaceWith": "Amélie de Proutalin"
   },
+    {
+    "name": "startup|Startup",
+    "replaceWith": "ProutUp"
+  },
   {
     "name": "ministre|Ministre",
     "replaceWith": "Miniprout"
