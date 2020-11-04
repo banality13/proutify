@@ -101,8 +101,8 @@ const replace = [
     "replaceWith": "Sébastien Leproutu"
   },
   {
-    "name": "ministre",
-    "replaceWith": "miniprout"
+    "name": "ministres|Ministres",
+    "replaceWith": "Miniprouts"
   },
   {
     "name": "ministre|Ministre",
