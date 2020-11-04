@@ -1,9 +1,10 @@
 {
   "manifest_version": 2,
   "name": "Proutify",
+  "description": "Remplace le noms de personnalités politiques française par leurs versions proutifiées.",
   "version": "1.1",
   "icons": {
-      "64": "static/icon.jpeg"
+      "64": "static/icon.png"
   },
   "content_scripts": [
     {
