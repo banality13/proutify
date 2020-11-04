@@ -17,8 +17,8 @@
     }
   ],"browser_action": {
       "default_icon": {
-        "64": "static/icon.jpeg"
-      },
+      "64": "static/icon.png"
+    },
       "default_popup": "index.html"
   }
 }
