@@ -124,6 +124,10 @@ const replace = [
     "name": "Le Pen",
     "replaceWith": "Le Prout"
   },
+   {
+    "name": "Zemmour",
+    "replaceWith": "Zeprrout"
+  },
   {
     "name": "Christian Estrosi",
     "replaceWith": "Christian Estroprout"
