@@ -74,7 +74,7 @@ const replace = [
   },
     {
     "name": "président|Président",
-    "replaceWith": "Proutident"
+    "replaceWith": "proutident"
   },
   {
     "name": "Franck Riester",
@@ -107,7 +107,31 @@ const replace = [
   {
     "name": "ministre|Ministre",
     "replaceWith": "Miniprout"
-  }
+  },
+  {
+    "name": "Trump",
+    "replaceWith": "Trumpet"
+  },
+  {
+    "name": "Nicolas Sarkozy",
+    "replaceWith": "Nicoprout Sarkozy"
+  },
+  {
+    "name": "Geoffroy Roux de Bézieux",
+    "replaceWith": "Geoffroy Prout de Bézieux"
+  },
+  {
+    "name": "Le Pen",
+    "replaceWith": "Le Prout"
+  },
+  {
+    "name": "Christian Estrosi",
+    "replaceWith": "Christian Estroprout"
+  },
+  {
+    "name": "Éric Ciotti|Eric Ciotti",
+    "replaceWith": "Éric Proutti"
+  },
 ];
 /* For copy/paste
   {
