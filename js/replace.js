@@ -1,3 +1,4 @@
+// vim:set sw=2 ts=2 sts=2 expandtab:
 const replace = [
   {
     "name": "Darmanin",
@@ -72,10 +73,40 @@ const replace = [
     "replaceWith": "Amélie de Proutalin"
   },
   {
+    "name": "Franck Riester",
+    "replaceWith": "Franck Prouster"
+  },
+  {
+    "name": "Emmanuelle Wargon",
+    "replaceWith": "Emmanuelle Prouton"
+  },
+  {
+    "name": "Jean-Baptiste Djebbari",
+    "replaceWith": "Jean-Baptiste Djeprouti"
+  },
+  {
+    "name": "Olivier Dussopt",
+    "replaceWith": "Olivier Duprout"
+  },
+  {
+    "name": "Geneviève Darrieussecq",
+    "replaceWith": "Geneviève Duproutsecq"
+  },
+  {
+    "name": "Sébastion Lecornu",
+    "replaceWith": "Sébastien Leproutu"
+  },
+  {
     "name": "ministre|Ministre",
     "replaceWith": "Miniprout"
   }
 ];
+/* For copy/paste
+  {
+    "name": "",
+    "replaceWith": ""
+  },
+*/
 
 // Create arrya of regexps with all above elements
 const rExps = []
