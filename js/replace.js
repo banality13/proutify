@@ -1,107 +1,107 @@
 // vim:set sw=2 ts=2 sts=2 expandtab:
 const replace = [
   {
-    "name": "Darmanin",
+    "name": "Darmaprout",
     "replaceWith": "Darmaprout"
   },
   {
-    "name": "Bruno Le Maire|Bruno Lemaire",
+    "name": "Bruno Le Prout|Bruno Lemaire",
     "replaceWith": "Bruno Le Prout"
   },
   {
-    "name": "Jean Castex",
+    "name": "Jean Proutex",
     "replaceWith": "Jean Proutex"
   },
   {
-    "name": "Macron|Emmanuel Macron",
+    "name": "Emmanuel Maprout|Emmanuel Macron",
     "replaceWith": "Emmanuel Maprout"
   },
   {
-    "name": "Barbara Pompili",
+    "name": "Barbara Proutili",
     "replaceWith": "Barbara Proutili"
   },
   {
-    "name": "Jean-Michel Blanquer",
+    "name": "Jean-Michel Blanc-Prout",
     "replaceWith": "Jean-Michel Blanc-Prout"
   },
   {
-    "name": "Marlène Schiappa",
+    "name": "Marlène Schiaprout",
     "replaceWith": "Marlène Schiaprout"
   },
   {
-    "name": "Élisabeth Borne|Elisabeth Borne",
+    "name": "Élizabeth Prout|Elisabeth Borne",
     "replaceWith": "Élizabeth Prout"
   },
   {
-    "name": "Éric Dupond-Moretti",
+    "name": "Éric Duprout-Moretti",
     "replaceWith": "Éric Duprout-Moretti"
   },
   {
-    "name": "Gabriel Attal",
+    "name": "Gabriel Prouttal",
     "replaceWith": "Gabriel Prouttal",
   },
   {
-    "name": "Jean-Yves Le Drian|Jean Yves Le Drian|Jean-Yves le Drian",
+    "name": "Jean-Prout Le Drian|Jean Yves Le Drian|Jean-Yves le Drian",
     "replaceWith": "Jean-Prout Le Drian"
   },
   {
-    "name": "Agnès Pannier-Runacher",
+    "name": "Agnès Proutier-Runacher",
     "replaceWith": "Agnès Proutier-Runacher"
   },
   {
-    "name": "Cédric O|Cedric O",
+    "name": "Cédric prOut|Cedric O",
     "replaceWith": "Cédric prOut"
   },
   {
-    "name": "Florence Parly",
+    "name": "Florence Proutly",
     "replaceWith": "Florence Proutly"
   },
   {
-    "name": "Roselyne Bachelot",
+    "name": "Proutelyne Bachelot",
     "replaceWith": "Proutelyne Bachelot"
   },
   {
-    "name": "Olivier Véran",
+    "name": "Proutivier Véran",
     "replaceWith": "Proutivier Véran"
   },
   {
-    "name": "Frédérique Vidal|Frederique Vidal",
+    "name": "Frédérique Proutal|Frederique Vidal",
     "replaceWith": "Frédérique Proutal"
   },
   {
-    "name": "Amélie de Montchalin|Amélie De Montchalin",
+    "name": "Amélie de Proutalin|Amélie De Montchalin",
     "replaceWith": "Amélie de Proutalin"
   },
     {
-    "name": "président|Président",
+    "name": "proutident|Président",
     "replaceWith": "proutident"
   },
   {
-    "name": "Franck Riester",
+    "name": "Franck Prouster",
     "replaceWith": "Franck Prouster"
   },
   {
-    "name": "Emmanuelle Wargon",
+    "name": "Emmanuelle Prouton",
     "replaceWith": "Emmanuelle Prouton"
   },
   {
-    "name": "Jean-Baptiste Djebbari",
+    "name": "Jean-Baptiste Djeprouti",
     "replaceWith": "Jean-Baptiste Djeprouti"
   },
   {
-    "name": "Olivier Dussopt",
+    "name": "Olivier Duprout",
     "replaceWith": "Olivier Duprout"
   },
   {
-    "name": "Geneviève Darrieussecq",
+    "name": "Geneviève Duproutsecq",
     "replaceWith": "Geneviève Duproutsecq"
   },
   {
-    "name": "Sébastion Lecornu",
+    "name": "Sébastien Leproutu",
     "replaceWith": "Sébastien Leproutu"
   },
   {
-    "name": "ministres|Ministres",
+    "name": "miniprouts|Miniprouts",
     "replaceWith": "Miniprouts"
   },
   {
@@ -109,28 +109,44 @@ const replace = [
     "replaceWith": "Miniprout"
   },
   {
-    "name": "Trump",
+    "name": "Trumpet",
     "replaceWith": "Trumpet"
   },
   {
-    "name": "Nicolas Sarkozy",
+    "name": "Nicoprout Sarkozy",
     "replaceWith": "Nicoprout Sarkozy"
   },
   {
-    "name": "Geoffroy Roux de Bézieux",
+    "name": "Geoffroy Prout de Bézieux",
     "replaceWith": "Geoffroy Prout de Bézieux"
   },
   {
-    "name": "Le Pen",
+    "name": "Le Prout",
     "replaceWith": "Le Prout"
   },
   {
-    "name": "Christian Estrosi",
+    "name": "Christian Estroprout",
     "replaceWith": "Christian Estroprout"
   },
   {
-    "name": "Éric Ciotti|Eric Ciotti",
+    "name": "Éric Proutti|Eric Ciotti",
     "replaceWith": "Éric Proutti"
+  },
+  {
+    "name": "Erdogan",
+    "replaceWith": "Erdoprout"
+  },
+  {
+    "name": "Alexander De Croo",
+    "replaceWith": "Alexander De Prout"
+  },
+  {
+    "name": "Merkel",
+    "replaceWith": "Merprout"
+  },
+  {
+    "name": "Boris Johnson",
+    "replaceWith": "Boris Johnprout"
   },
 ];
 /* For copy/paste
